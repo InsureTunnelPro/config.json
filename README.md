@@ -1,5 +1,5 @@
 {
-"SendMessage":1,
+"SendMessage":2,
 "MyMessage":
-"Gilmer Ocba Lang malakas "
+"Thanks guys sa pag feedback 🥰 niyo at pag join niyo sa group natin.. "
 }
