@@ -1,5 +1,11 @@
 {
 "SendMessage":2,
 "MyMessage":
-"Thanks guys sa pag feedback 🥰 niyo at pag join niyo sa group natin.. "
-}
+"Insure Tunnel v2 
+- Uninstall Old Version App (v1.4.5) 
+- Thin Install New Version App (v1.5.8) 
+• Features App 
+- GLOBE TM NOLOAD 
+-SMART TNT SUN NOLOAD
+- No need Hulog.2x na sa Piso Wifi or Piso Net Bastat may kapit bahay ka na merong wifi free internet kana..Bypass Facebook Lite, YouTube , Google Chrome..
+"}
