@@ -1,5 +1,5 @@
 {
-"SendMessage":2,
+"SendMessage":3,
 "MyMessage":
 "Insure Tunnel v2 
 - Uninstall Old Version App (v1.4.5) 
