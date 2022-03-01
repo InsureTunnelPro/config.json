@@ -1,9 +1,11 @@
 {
-"SendMessage":4,
+"SendMessage":5,
 "MyMessage":
-"🔰Insure Tunnel v2 
-- 📥 Please Update
-- 🇵🇭GLOBE TM NO-LOAD Is Back ❤️👍☺️🌐
-- 🇵🇭SMART TNT SUN NOLOAD
+"There is new app version 
+\n please download the latest version app\n\n
+🔰Insure Tunnel Pro \n\n
+- 📥 Please Update to work properly GTM NO-LOAD\n
+- 🇵🇭GLOBE TM NO-LOAD No Need Ip Hunt ❤️👍☺️🌐 \n
+- 🇵🇭SMART TNT SUN NOLOAD \n
 - 🇵🇭No need Hulog.2x na sa Piso Wifi or Piso Net Bastat may kapit bahay ka na merong wifi free internet kana..Bypass Facebook Lite, YouTube , Google Chrome..
 "}
