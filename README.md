@@ -1,8 +1,8 @@
 {
-"SendMessage":5,
+"SendMessage":6,
 "MyMessage":
-"There is new app version 
-\n please download the latest version app\n\n
+"There is new app version now
+\n please download the latest version app (v2.5.8)\n\n
 🔰Insure Tunnel Pro \n\n
 - 📥 Please Update to work properly GTM NO-LOAD\n
 - 🇵🇭GLOBE TM NO-LOAD No Need Ip Hunt ❤️👍☺️🌐 \n
