@@ -1,5 +1,5 @@
 {
-"SendMessage":6,
+"SendMessage":7,
 "MyMessage":
 "There is new app version now
 \n please download the latest version app (v2.5.8)\n\n
